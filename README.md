@@ -2,7 +2,7 @@
 <div align="center">
 <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=35&pause=1000&color=FB2CBC&center=true&vCenter=true&random=false&width=635&height=65&lines=%F0%9F%91%8B%F0%9F%8F%BE+Bem+vindos+ao+meu+perfil!;%F0%9F%8C%B9+Sintam-se+a+vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=35&pause=1000&color=FB2CBC&center=true&vCenter=true&random=false&width=635&height=65&lines=%F0%9F%91%8B%F0%9F%8F%BE+Bem-vindos+ao+meu+perFil!;%F0%9F%8C%B9+Sintam-se+a+vontade!)](https://git.io/typing-svg)
 <br><br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brivyy&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fb2cbc&title_color=fb2cbc&text_color=FFF)
 </div>
@@ -19,9 +19,7 @@
 </div>
 
 ## 📚 Estudando Atualmente
-- técnico em Redes de Computadores
-  <br><br>
-  
+
 <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 ## 🔧 Principais projetos
 <br>
