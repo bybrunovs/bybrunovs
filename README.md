@@ -25,7 +25,8 @@
 <br>
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=AtHome&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/brivyy/AtHome)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=AtHome&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/brunovieiradasilva/AtHome)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=AtHome&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/brunovieiradasilva/automacao_planilha)
 </div>
 
 ## 🌐 Línguas
@@ -33,5 +34,5 @@
 ## 📞 Contatos
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=d52ca5)](https://www.linkedin.com/in/bruno-vieria-065958312/) [![GitHub](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=fb2cbc)](https://github.com/brivyy) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=fb2cbc)](mailto:brunovieira8225@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=d52ca5)](https://www.linkedin.com/in/bruno-vieria-065958312/) [![GitHub](https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=fb2cbc)](https://github.com/brunovieiradasilva) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=fb2cbc)](mailto:brunovieira8225@gmail.com)
 </div>
