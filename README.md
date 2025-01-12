@@ -26,7 +26,7 @@
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=AtHome&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunovieiradasilva/AtHome)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=automacao_Planilha_Quantificacao&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunovieiradasilva/automacao_Planilha_Quantificacao)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=automacao-Planilha-Quantificacao&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunovieiradasilva/automacao-Planilha-Quantificacao)
 </div>
 
 ## 🌐 Línguas
