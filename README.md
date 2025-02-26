@@ -12,6 +12,7 @@
 - Estudando ciência da computação na Universidade Federal de Minas Gerais (UFMG)
 ## ⚙ Tecnologias e Ferramentas
 <br>
+<img src="https://raw.githubusercontent.com/brunovieiradasilva/brunovieiradasilva/imgs/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <div align="center">
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunovieiradasilva&layout=donut&bg_color=000&border_color=fff&title_color=fb2cbc&text_color=FFF)  
@@ -24,6 +25,7 @@
 <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 ## 🔧 Principais projetos
 <br>
+
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brunovieiradasilva&repo=AtHome&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brunovieiradasilva/AtHome)
