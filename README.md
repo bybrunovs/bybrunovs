@@ -12,7 +12,7 @@
 - Estudando ciência da computação na Universidade Federal de Minas Gerais (UFMG)
 ## ⚙ Tecnologias e Ferramentas
 <br>
-<img src="https://raw.githubusercontent.com/brunovieiradasilva/brunovieiradasilva/imgs/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/brunovieiradasilva/brunovieiradasilva/master/imgs/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <div align="center">
 
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunovieiradasilva&layout=donut&bg_color=000&border_color=fff&title_color=fb2cbc&text_color=FFF)  
