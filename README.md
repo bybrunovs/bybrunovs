@@ -8,7 +8,8 @@
 </div>
 
 ## 📝 Formação
-- Cursando técnico em Redes de Computadores no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+- Técnico em Redes de Computadores pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+- Estudando ciência da computação na Universidade Federal de Minas Gerais (UFMG)
 ## ⚙ Tecnologias e Ferramentas
 <br>
 <div align="center">
