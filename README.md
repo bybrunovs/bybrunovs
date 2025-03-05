@@ -36,6 +36,8 @@
 
 ## 🌐 Línguas
 - Inglês Intermediário
+- Espanhol Básico
+
 ## 📞 Contatos
 <div align="center">
 
