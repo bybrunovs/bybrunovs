@@ -35,7 +35,7 @@
 </div>
 
 ## 🌐 Línguas
-- Inglês Intermediário
+- Inglês Avançado
 - Espanhol Básico
 
 ## 📞 Contatos
