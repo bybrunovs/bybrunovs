@@ -44,16 +44,19 @@ Estudante de Ciência da Computação na UFMG, com experiência em suporte técn
 
 <div align="left">
 
-[***Frankenstein Music Player***](https://github.com/pds2-dcc-ufmg/2025-2-TW-TE-grupo06)
+[***Frankenstein Music Player:***](https://github.com/pds2-dcc-ufmg/2025-2-TW-TE-grupo06)
  Sistema para gerenciamento local de músicas, álbuns, artistas e reprodução de áudio desenvolvido em C++.
 
-[***Space Invaders***](https://github.com/bybrunovs/spaceinvaders)
+[***Space Invaders:***](https://github.com/bybrunovs/spaceinvaders)
 implementação do clássico jogo Space Invaders usando a biblioteca Allegro 5 desenvolvido em C.
 
-[***Rastreamento Veicular***](https://github.com/bybrunovs/rastreamento-Veicular)
+[***Rastreamento Veicular:***](https://github.com/bybrunovs/rastreamento-Veicular)
 Trabalho de conclusão de curso técnico. Rastreamento veicular desenvolvido em Arduino utilizando a placa LilyGo T-A7670G.
 
-[***At Home***](https://github.com/bybrunovs/AtHome)
+[***Planilha de Quantificação de Matériais:***](https://github.com/bybrunovs/automacao-Planilha-Quantificacao)
+Automação web da quantificação de matérias para o cabeamento estruturado de uma infraestrutura de TI desenvolvido em JavaScript.
+
+[***At Home:***](https://github.com/bybrunovs/AtHome)
 Projeto de uma loja de vendas desenvolvido em java.
 
 </div>
